@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a vika widget",
   "engines": {
     "node": ">=8.x"
@@ -30,6 +30,9 @@
     "@vikadata/components": "latest",
     "@vikadata/icons": "latest",
     "@vikadata/widget-sdk": "latest",
+    "himalaya": "^1.1.0",
+    "html-parse-stringify": "^3.0.1",
+    "html5parser": "^2.0.2",
     "typescript": "4.1.2"
   },
   "devDependencies": {

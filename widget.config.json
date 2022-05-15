@@ -4,7 +4,7 @@
   "entry": "./src/index.tsx",
   "name": {
     "zh-CN": "chrome书签管理",
-    "en-US": "chrome书签管理"
+    "en-US": "Chrome bookmark management"
   },
   "icon": "./package_icon.png",
   "cover": "./cover.png",

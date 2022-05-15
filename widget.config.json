@@ -1,0 +1,17 @@
+{
+  "packageId": "wpkG9e3sdZMMe",
+  "spaceId": "spc2LjiMTQWNX",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "chrome书签管理",
+    "en-US": "chrome书签管理"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "chrome书签管理 的描述",
+    "en-US": "chrome书签管理 description"
+  },
+  "sandbox": true
+}
